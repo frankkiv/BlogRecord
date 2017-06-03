@@ -1,0 +1,2 @@
+# BlogRecord
+BlogServerByHexo
